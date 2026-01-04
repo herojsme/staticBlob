@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[98427,["/staticBlob/_next/static/chunks/b170b099712d545b.js","/staticBlob/_next/static/chunks/3b60e5197848a126.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"hJpZ9_1FZihJr8kZsrHcw","rsc":["$","$1","c",{"children":[["$","section",null,{"children":[["$","h1",null,{"className":"mb-8 text-2xl font-semibold tracking-tighter","children":"404 - 页面没有找到"}],["$","p",null,{"className":"mb-4","children":"您正在寻找的页面不存在。"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"uufzez_Bo0yjgtuNpaNfq","rsc":["$","$1","c",{"children":[["$","section",null,{"children":[["$","h1",null,{"className":"mb-8 text-2xl font-semibold tracking-tighter","children":"404 - 页面没有找到"}],["$","p",null,{"className":"mb-4","children":"您正在寻找的页面不存在。"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
